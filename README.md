@@ -1,4 +1,4 @@
-<img src="headshot.jpg" width="140" align="right" alt="Aruzhan Zhengis" />
+
 
 # Aruzhan Zhengis
 
