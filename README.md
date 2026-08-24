@@ -40,8 +40,6 @@ Under the hood: Audio Spectrogram Transformer fine-tuned on ESC-50, 95.6% valida
 Urban parcel intelligence that scores vacant lots in Chicago for what they could realistically become. Winner, DemonHacks.
 Under the hood: geospatial data pipeline, scoring model, mapping front end.
 
-**[Deep Learning from Scratch](https://github.com/azhengis/dl-from-scratch)**
-A two-hour lecture and a full NumPy notebook I wrote and taught to build a neural network without a framework, one layer at a time. Included because explaining a model clearly is part of the job.
 
 ## Toolkit
 
